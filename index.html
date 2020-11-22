@@ -1,0 +1,23 @@
+---
+layout: splash 
+author_profile: false 
+excerpt: "Meditations and memories of another dreamer"
+header:
+   overlay_color: "#333"
+---
+	<head>
+    <meta name="google-site-verification" content="5dKfwcZAakXjmRsMsabuch5JalbZAlgp7xPYl0xoWPI" />
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}

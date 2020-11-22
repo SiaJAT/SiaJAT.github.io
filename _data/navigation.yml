@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  
+  - title: "Code"
+    url: https://github.com/SiaJAT
+
+  - title: "Resume"
+    url: /docs/sia_resume_20200820.pdf 
+
+  - title: "Musings"
+    url: /musings/ 
+
