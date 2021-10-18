@@ -35,6 +35,6 @@ The bitter and sweet muddled,
 like a confused, recollecting dream.  
 We were true for a time,  
 But not true in due time.  
-The glint was gone from your eyes  
-And tonight I lie in bed and cry  
+The glint was gone from your eyes,  
+And tonight I lie in bed and cry,  
 And forget what you meant to me.  
