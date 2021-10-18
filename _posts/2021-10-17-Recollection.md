@@ -28,7 +28,7 @@ Another star falls.
 Should we put it on the line?  
 Or do nothing at all?  
 
-There’s no tender gazes or glances—  
+There’re no tender gazes or glances—  
 Just ill-fated romances,  
 Like cups of coffee, sugar, and cream:  
 The bitter and sweet muddled,  
