@@ -7,14 +7,14 @@ tags:
 
 ***
 
-I had a little dream   
-To hold you in my arms  
+I had a little dream:   
+To hold you in my arms,  
 And make you laugh—  
-To give you the best  
-But your smile was always tenuous  
-Like the tired hope in my chest  
-That wanted for more  
-(You always wanted less)  
+To give you the best.  
+But your smile was always tenuous,  
+Like the tired hope in my chest,  
+That wanted for more,  
+(You always wanted less).  
 
 Bated breath,  
 And tearful embrace.  
